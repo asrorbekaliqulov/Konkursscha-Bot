@@ -22,7 +22,7 @@ async def konkurslar_royxati(update: Update, context: ContextTypes.DEFAULT_TYPE)
     contests = await get_contests()  # ORM chaqiruvini async qilamiz
     
     if not contests:
-        await update.message.reply_text("📭 Hozircha konkurs mavjud emas")
+        await update.callback_query.edit_message_text("📭 Hozircha konkurs mavjud emas", reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="Konkurs yaratish", callback_data="create_contest")]]))
         return
 
     buttons = []
@@ -49,6 +49,7 @@ async def konkurslar_royxati(update: Update, context: ContextTypes.DEFAULT_TYPE)
 
     # 3 tadan chiqarish
     keyboard = list(chunk_list(buttons, 3))
+    keyboard.append([InlineKeyboardButton(text="Konkurs yaratish", callback_data="create_contest")])
 
     # Agar nofaol konkurs bo‘lsa pastiga qo‘shimcha yozuv
     if has_inactive:
