@@ -53,7 +53,7 @@ async def start_contest(update: Update, context: ContextTypes.DEFAULT_TYPE):
     context.user_data["contest_id"] = contest.id
     context.user_data["time_select"] = {"start": {}, "end": {}}
 
-    await update.message.reply_text("📝 Konkurs nomini kiriting:")
+    await update.callback_query.edit_message_text("📝 Konkurs nomini kiriting:")
     return TITLE
 
 # ========= TITLE =========
@@ -440,7 +440,7 @@ async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):
 # ========= CONVERSATION HANDLER =========
 
 Conkurs_Conversation = ConversationHandler(
-    entry_points=[CommandHandler("create_contest", start_contest)],
+    entry_points=[CallbackQueryHandler(start_contest, pattern=r"^create_contest$")],
     states={
         TITLE: [MessageHandler(filters.TEXT & ~filters.COMMAND, contest_title)],
         DESCRIPTION: [MessageHandler(filters.TEXT & ~filters.COMMAND, contest_description)],
