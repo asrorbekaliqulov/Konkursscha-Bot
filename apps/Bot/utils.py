@@ -98,8 +98,14 @@ async def get_unsubscribed_channels(user_id: int, bot):
     return unsubscribed
 
 
+from telegram import InlineKeyboardMarkup, InlineKeyboardButton
+from telegram import Bot
+from asgiref.sync import sync_to_async
+from ..models.TelegramBot import TelegramUser
+from django.conf import settings
+
 async def notify_admins_unable_to_check(user, condition):
-    bot = Bot(token=TOKEN)
+    bot = Bot(token=settings.TOKEN)
 
     text = (
         f"⚠️ Shartni tekshirishda muammo!\n\n"
@@ -115,9 +121,12 @@ async def notify_admins_unable_to_check(user, condition):
         ]
     ])
 
-    admin_ids = TelegramUser.objects.filter(is_admin=True).values_list("user_id", flat=True)
+    admin_ids = await sync_to_async(
+        lambda: list(TelegramUser.objects.filter(is_admin=True).values_list("user_id", flat=True))
+    )()
+
     for admin_id in admin_ids:
         try:
             await bot.send_message(chat_id=admin_id, text=text, reply_markup=keyboard)
-        except:
-            pass
+        except Exception as e:
+            print(f"❌ Admin {admin_id} ga yuborilmadi: {e}")

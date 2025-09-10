@@ -54,8 +54,9 @@ async def show_contests(update: Update, context: ContextTypes.DEFAULT_TYPE):
     )
 
 
+from ..models.Konkurs import ContestCondition, ConditionCheck
+
 async def contest_detail(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    """Tanlangan konkurs tafsilotlari"""
     query = update.callback_query
     await query.answer()
 
@@ -72,23 +73,39 @@ async def contest_detail(update: Update, context: ContextTypes.DEFAULT_TYPE):
     )()
     failed_before = context.user_data.get(f"failed_{contest_id}")
 
+    # 📌 Shartlarni olib kelamiz
+    conditions = await sync_to_async(lambda: list(contest.conditions.all()))()
+    checks = {}
+    if participant:
+        checks = {
+            c.condition.id: c.is_completed
+            for c in await sync_to_async(lambda: list(
+                ConditionCheck.objects.filter(participant=participant)
+            ))()
+        }
+
     text = (
         f"🏆 <b>{contest.title}</b>\n\n"
         f"{contest.description or '📄 Tavsif mavjud emas'}\n\n"
         f"⏰ Boshlanish: {contest.start_date.strftime('%Y-%m-%d %H:%M')}\n"
         f"⏳ Tugash: {contest.end_date.strftime('%Y-%m-%d %H:%M')}\n\n"
-        f"👥 Hozircha ishtirokchilar soni: <b>{participants_count}</b> ta\n"
+        f"👥 Hozircha ishtirokchilar soni: <b>{participants_count}</b> ta\n\n"
+        f"<b>🔑 Shartlar:</b>\n"
     )
 
-    keyboard = [[InlineKeyboardButton("⬅️ Orqaga", callback_data="contest_back")]]
+    for idx, cond in enumerate(conditions, start=1):
+        status = "❌"
+        if participant:
+            if checks.get(cond.id):
+                status = "✅"
+        text += f"{idx}. {cond.get_condition_type_display()} ({cond.value}) {status}\n"
 
-    if participant:
-        # Allaqachon qo‘shilgan
-        pass
-    elif failed_before:
-        keyboard.append([InlineKeyboardButton("🔄 Qayta urinish", callback_data=f"contest_join:{contest_id}")])
-    else:
-        keyboard.append([InlineKeyboardButton("✅ Qatnashish", callback_data=f"contest_join:{contest_id}")])
+    keyboard = [[InlineKeyboardButton("⬅️ Orqaga", callback_data="contest_back")]]
+    if not participant:
+        if failed_before:
+            keyboard.append([InlineKeyboardButton("🔄 Qayta urinish", callback_data=f"contest_join:{contest_id}")])
+        else:
+            keyboard.append([InlineKeyboardButton("✅ Qatnashish", callback_data=f"contest_join:{contest_id}")])
 
     await query.edit_message_text(
         text=text,

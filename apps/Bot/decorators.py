@@ -111,13 +111,20 @@ def referral_handler(func):
         ref_code = context.user_data.get("referral_code")
         if not ref_code:
             return await func(update, context, *args, **kwargs)
+
         try:
             referrer = await sync_to_async(TelegramUser.objects.get)(referral_code=ref_code)
+            
             # Referral modelga yozish
             await sync_to_async(Referral.objects.create)(
                 referrer=referrer,
                 referred_user=new_user
             )
+
+            # 🔥 Referral ball qo‘shish
+            referrer.ref_score += 1
+            await sync_to_async(referrer.save)(update_fields=["ref_score"])
+
         except TelegramUser.DoesNotExist:
             pass  # noto‘g‘ri referral kod bo‘lsa, e'tibor bermaymiz
 
