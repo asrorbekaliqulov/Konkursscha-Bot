@@ -17,7 +17,7 @@ async def get_user_keyboard():
             InlineKeyboardButton(text="📞 Murojaat", callback_data="appeal")
         ],
         [
-            InlineKeyboardButton(text="🔗 Qo'llab-quvvatlash 💸", callback_data="donate"),
+            InlineKeyboardButton(text="🔗 Do'stlarni taklif qilish", callback_data="referral"),
         ]
     ]
 
