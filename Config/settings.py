@@ -18,7 +18,7 @@ if DEBUG is not None:
 else:
     DEBUG = False
 
-ALLOWED_HOSTS = ["127.0.0.1", "localhost", "185.191.141.79"]
+ALLOWED_HOSTS = ["127.0.0.1", "localhost", "45.138.159.198"]
 CSRF_TRUSTED_ORIGINS = ["http://127.0.0.1", "http://localhost", "http://185.191.141.79"]
 
 INSTALLED_APPS = [*THIRD_PARTY_APPS, *DEFAULT_APPS, *PROJECT_APPS]
