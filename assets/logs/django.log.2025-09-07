@@ -1,0 +1,117 @@
+INFO 2025-09-07 23:39:11,574 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:39:24,121 basehttp "GET / HTTP/1.1" 200 14813
+INFO 2025-09-07 23:39:25,022 basehttp "GET /static/images/logo.png HTTP/1.1" 304 0
+INFO 2025-09-07 23:39:35,448 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-09-07 23:39:35,583 basehttp "GET /en/admin/ HTTP/1.1" 302 0
+INFO 2025-09-07 23:39:35,679 basehttp "GET /en/admin/login/?next=/en/admin/ HTTP/1.1" 200 11135
+INFO 2025-09-07 23:39:42,669 basehttp "POST /en/admin/login/?next=/en/admin/ HTTP/1.1" 200 12021
+INFO 2025-09-07 23:40:12,137 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:40:16,140 basehttp "POST /en/admin/login/?next=/en/admin/ HTTP/1.1" 302 0
+INFO 2025-09-07 23:40:16,416 basehttp "GET /en/admin/ HTTP/1.1" 200 38959
+INFO 2025-09-07 23:40:22,433 basehttp "GET /en/admin/Bot/telegramuser/ HTTP/1.1" 200 63258
+INFO 2025-09-07 23:40:22,682 basehttp "GET /en/admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-07 23:44:06,917 autoreload /home/asrorbek/Documents/KokursBot/apps/Bot/admin/base.py changed, reloading.
+INFO 2025-09-07 23:44:10,280 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:44:16,923 autoreload /home/asrorbek/Documents/KokursBot/apps/Bot/admin/base.py changed, reloading.
+INFO 2025-09-07 23:44:19,054 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:44:26,938 autoreload /home/asrorbek/Documents/KokursBot/apps/Bot/admin/base.py changed, reloading.
+INFO 2025-09-07 23:44:30,409 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:44:37,427 autoreload /home/asrorbek/Documents/KokursBot/apps/Bot/admin/base.py changed, reloading.
+INFO 2025-09-07 23:44:39,154 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:44:48,576 basehttp "GET /en/admin/Bot/telegramuser/ HTTP/1.1" 200 64887
+INFO 2025-09-07 23:44:48,735 basehttp "GET /en/admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-07 23:44:54,622 basehttp "GET /en/admin/Bot/contest/ HTTP/1.1" 200 74354
+INFO 2025-09-07 23:44:54,777 basehttp "GET /en/admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-07 23:45:29,861 basehttp "GET /en/admin/Bot/contest/5/change/ HTTP/1.1" 200 70534
+INFO 2025-09-07 23:45:30,009 basehttp "GET /en/admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-07 23:45:30,091 basehttp "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2025-09-07 23:45:30,339 basehttp "GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+INFO 2025-09-07 23:45:30,340 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2025-09-07 23:45:30,346 basehttp "GET /static/admin/js/inlines.js HTTP/1.1" 200 14687
+INFO 2025-09-07 23:45:30,394 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2025-09-07 23:46:20,910 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:46:23,703 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:46:31,600 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:46:33,488 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:46:38,859 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:46:40,694 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:46:43,552 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:46:45,608 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:46:51,345 basehttp "GET /en/admin/Bot/contest/5/change/ HTTP/1.1" 200 72000
+INFO 2025-09-07 23:46:51,584 basehttp "GET /en/admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-07 23:47:59,039 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:48:02,045 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:48:07,401 basehttp "GET /en/admin/Bot/contest/5/change/ HTTP/1.1" 200 72003
+INFO 2025-09-07 23:48:07,623 basehttp "GET /en/admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-07 23:48:30,595 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:48:32,793 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:48:36,143 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:48:38,101 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:48:42,663 basehttp "GET /en/admin/Bot/contest/5/change/ HTTP/1.1" 200 72088
+INFO 2025-09-07 23:48:43,002 basehttp "GET /en/admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-07 23:48:46,511 basehttp "GET /en/admin/Bot/contest/ HTTP/1.1" 200 75908
+INFO 2025-09-07 23:48:46,704 basehttp "GET /en/admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-07 23:48:52,364 basehttp "GET /en/admin/Bot/contest/5/change/ HTTP/1.1" 200 72088
+INFO 2025-09-07 23:48:52,477 basehttp "GET /en/admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-07 23:49:10,284 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:49:12,371 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:49:14,402 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:49:16,484 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:49:21,744 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:49:23,935 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:49:26,933 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:49:28,646 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:49:32,082 basehttp "GET /en/admin/Bot/contest/5/change/ HTTP/1.1" 200 73056
+INFO 2025-09-07 23:49:32,255 basehttp "GET /en/admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-07 23:50:03,390 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:50:05,322 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:50:07,316 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:50:09,193 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:50:19,996 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:50:22,269 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:50:27,192 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:50:28,986 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:50:50,097 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:50:52,099 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:50:56,115 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:50:58,160 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:51:57,750 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:52:00,431 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:52:10,153 basehttp "GET /en/admin/Bot/contest/5/change/ HTTP/1.1" 200 73873
+INFO 2025-09-07 23:52:10,411 basehttp "GET /en/admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-07 23:52:13,143 basehttp "GET /en/admin/Bot/contestcondition/ HTTP/1.1" 200 68990
+INFO 2025-09-07 23:52:13,284 basehttp "GET /en/admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-07 23:52:36,936 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:52:38,985 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:52:39,827 basehttp "GET /en/admin/Bot/contestcondition/ HTTP/1.1" 200 68985
+INFO 2025-09-07 23:52:39,953 basehttp "GET /en/admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-07 23:53:51,553 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:53:53,501 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:53:54,986 basehttp "GET /en/admin/Bot/contestcondition/ HTTP/1.1" 200 68985
+INFO 2025-09-07 23:53:55,196 basehttp "GET /en/admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-07 23:54:10,220 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:54:32,705 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:54:34,702 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:54:36,497 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:54:38,485 basehttp "GET /en/admin/Bot/contestcondition/ HTTP/1.1" 200 68988
+INFO 2025-09-07 23:54:38,853 basehttp "GET /en/admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-07 23:54:59,258 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:55:01,285 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:55:02,341 basehttp "GET /en/admin/Bot/contestcondition/ HTTP/1.1" 200 68988
+INFO 2025-09-07 23:55:02,553 basehttp "GET /en/admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-07 23:55:27,459 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:55:29,704 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:55:37,010 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:55:39,096 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:56:05,276 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:56:08,407 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:56:20,443 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:56:22,374 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:56:25,241 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:56:27,163 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:56:29,119 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:56:31,000 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:57:10,694 autoreload /home/asrorbek/Documents/KokursBot/Config/config/unfold_navigation.py changed, reloading.
+INFO 2025-09-07 23:57:12,670 autoreload Watching for file changes with StatReloader
+INFO 2025-09-07 23:57:17,164 basehttp "GET /en/admin/Bot/contestcondition/ HTTP/1.1" 200 69877
+INFO 2025-09-07 23:57:17,378 basehttp "GET /en/admin/jsi18n/ HTTP/1.1" 200 3342

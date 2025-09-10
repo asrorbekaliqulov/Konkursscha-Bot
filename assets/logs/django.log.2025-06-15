@@ -1,0 +1,813 @@
+INFO 2025-06-13 06:54:00,384 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 06:54:30,976 basehttp "GET / HTTP/1.1" 200 4583
+INFO 2025-06-13 06:54:31,270 basehttp "GET /static/css/styles.css HTTP/1.1" 304 0
+INFO 2025-06-13 06:54:31,299 basehttp "GET /static/images/telegram-icon.svg HTTP/1.1" 304 0
+INFO 2025-06-13 06:54:31,304 basehttp "GET /static/images/github-icon.svg HTTP/1.1" 304 0
+INFO 2025-06-13 06:54:31,313 basehttp "GET /static/js/main.js HTTP/1.1" 304 0
+INFO 2025-06-13 06:54:31,314 basehttp "GET /static/images/instagram-icon.svg HTTP/1.1" 304 0
+INFO 2025-06-13 06:54:32,224 basehttp "GET /static/images/favicon.ico HTTP/1.1" 200 15406
+INFO 2025-06-13 06:54:34,895 basehttp "GET /uz/admin/ HTTP/1.1" 302 0
+INFO 2025-06-13 06:54:34,983 basehttp "GET /uz/admin/login/?next=/uz/admin/ HTTP/1.1" 200 11132
+INFO 2025-06-13 06:54:35,104 basehttp "GET /static/unfold/fonts/inter/styles.css HTTP/1.1" 304 0
+INFO 2025-06-13 06:54:35,139 basehttp "GET /static/css/tailwind.css HTTP/1.1" 200 15588
+INFO 2025-06-13 06:54:35,162 basehttp "GET /static/unfold/fonts/material-symbols/styles.css HTTP/1.1" 304 0
+INFO 2025-06-13 06:54:35,163 basehttp "GET /static/unfold/js/htmx.js HTTP/1.1" 200 50918
+INFO 2025-06-13 06:54:35,175 basehttp "GET /static/unfold/js/chart.js HTTP/1.1" 200 200633
+INFO 2025-06-13 06:54:35,179 basehttp "GET /static/unfold/css/styles.css HTTP/1.1" 200 157275
+INFO 2025-06-13 06:54:35,197 basehttp "GET /static/unfold/css/simplebar.css HTTP/1.1" 304 0
+INFO 2025-06-13 06:54:35,201 basehttp "GET /static/unfold/js/simplebar.js HTTP/1.1" 200 27176
+INFO 2025-06-13 06:54:35,189 basehttp "GET /static/unfold/js/app.js HTTP/1.1" 304 0
+INFO 2025-06-13 06:54:35,277 basehttp "GET /static/unfold/js/alpine.anchor.js HTTP/1.1" 200 15524
+INFO 2025-06-13 06:54:35,293 basehttp "GET /static/unfold/js/alpine.persist.js HTTP/1.1" 304 0
+INFO 2025-06-13 06:54:35,350 basehttp "GET /static/unfold/js/alpine.sort.js HTTP/1.1" 200 37891
+INFO 2025-06-13 06:54:35,364 basehttp "GET /static/unfold/js/alpine.resize.js HTTP/1.1" 304 0
+INFO 2025-06-13 06:54:35,369 basehttp "GET /static/unfold/js/alpine.js HTTP/1.1" 200 44659
+INFO 2025-06-13 06:54:35,533 basehttp "GET /static/images/login.png HTTP/1.1" 200 171031
+INFO 2025-06-13 06:54:35,873 basehttp "GET /static/unfold/fonts/inter/Inter-SemiBold.woff2 HTTP/1.1" 200 46552
+INFO 2025-06-13 06:54:35,888 basehttp "GET /static/unfold/fonts/material-symbols/Material-Symbols-Outlined.woff2 HTTP/1.1" 200 256424
+INFO 2025-06-13 06:54:35,892 basehttp "GET /static/unfold/fonts/inter/Inter-Regular.woff2 HTTP/1.1" 200 46552
+INFO 2025-06-13 06:54:35,904 basehttp "GET /static/unfold/fonts/inter/Inter-Medium.woff2 HTTP/1.1" 200 46552
+INFO 2025-06-13 06:54:39,837 basehttp "POST /uz/admin/login/?next=/uz/admin/ HTTP/1.1" 302 0
+INFO 2025-06-13 06:54:39,930 basehttp "GET /uz/admin/ HTTP/1.1" 200 35612
+INFO 2025-06-13 06:54:40,051 basehttp "GET /static/images/django-logo.webp HTTP/1.1" 200 31764
+INFO 2025-06-13 06:54:40,085 basehttp "GET /static/images/user_profile.png HTTP/1.1" 304 0
+INFO 2025-06-13 06:54:47,547 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 61696
+INFO 2025-06-13 06:54:47,680 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2025-06-13 06:54:47,691 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2025-06-13 06:54:47,711 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-06-13 06:54:47,727 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-06-13 06:54:47,742 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-06-13 06:54:47,743 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-06-13 06:54:47,746 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-06-13 06:54:47,747 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-06-13 06:54:47,761 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 06:55:35,050 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-13 06:55:40,003 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 06:55:47,346 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-13 06:55:50,136 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 06:55:52,319 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-13 06:55:54,840 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 06:59:13,814 autoreload Watching for file changes with StatReloader
+ERROR 2025-06-13 06:59:18,862 log Internal Server Error: /uz/admin/Bot/telegramuser/
+Traceback (most recent call last):
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/admin.py", line 484, in changelist_view
+    return super().changelist_view(request, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 2138, in changelist_view
+    **self.admin_site.each_context(request),
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 121, in each_context
+    "sidebar_navigation": self.get_sidebar_list(request)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 263, in get_sidebar_list
+    item["active"] = self._get_is_active(
+                     ^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 418, in _get_is_active
+    link = str(link)
+           ^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/functional.py", line 119, in __str__
+    return str(self.__cast())
+               ^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/functional.py", line 110, in __cast
+    return func(*self._args, **self._kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/urls/base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Bot_botguide_changelist' not found. 'Bot_botguide_changelist' is not a valid view function or pattern name.
+ERROR 2025-06-13 06:59:18,883 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 500 167639
+WARNING 2025-06-13 06:59:19,583 log Not Found: /favicon.ico
+WARNING 2025-06-13 06:59:19,585 basehttp "GET /favicon.ico HTTP/1.1" 404 3766
+INFO 2025-06-13 06:59:59,442 autoreload /home/asrorbek/Documents/CountrysBot/CountrysBot/config/unfold_navigation.py changed, reloading.
+INFO 2025-06-13 07:00:01,667 autoreload Watching for file changes with StatReloader
+ERROR 2025-06-13 07:00:02,332 log Internal Server Error: /uz/admin/Bot/telegramuser/
+Traceback (most recent call last):
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/admin.py", line 484, in changelist_view
+    return super().changelist_view(request, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 2138, in changelist_view
+    **self.admin_site.each_context(request),
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 121, in each_context
+    "sidebar_navigation": self.get_sidebar_list(request)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 263, in get_sidebar_list
+    item["active"] = self._get_is_active(
+                     ^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 418, in _get_is_active
+    link = str(link)
+           ^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/functional.py", line 119, in __str__
+    return str(self.__cast())
+               ^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/functional.py", line 110, in __cast
+    return func(*self._args, **self._kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/urls/base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Bot_botguide_changelist' not found. 'Bot_botguide_changelist' is not a valid view function or pattern name.
+ERROR 2025-06-13 07:00:02,353 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 500 167639
+ERROR 2025-06-13 07:00:08,293 log Internal Server Error: /uz/admin/
+Traceback (most recent call last):
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 260, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 147, in index
+    **self.each_context(request),
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 121, in each_context
+    "sidebar_navigation": self.get_sidebar_list(request)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 263, in get_sidebar_list
+    item["active"] = self._get_is_active(
+                     ^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 418, in _get_is_active
+    link = str(link)
+           ^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/functional.py", line 119, in __str__
+    return str(self.__cast())
+               ^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/functional.py", line 110, in __cast
+    return func(*self._args, **self._kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/urls/base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Bot_botguide_changelist' not found. 'Bot_botguide_changelist' is not a valid view function or pattern name.
+ERROR 2025-06-13 07:00:08,296 basehttp "GET /uz/admin/ HTTP/1.1" 500 146138
+INFO 2025-06-13 07:00:22,835 autoreload /home/asrorbek/Documents/CountrysBot/CountrysBot/config/unfold_navigation.py changed, reloading.
+INFO 2025-06-13 07:00:24,765 autoreload Watching for file changes with StatReloader
+ERROR 2025-06-13 07:00:27,076 log Internal Server Error: /uz/admin/
+Traceback (most recent call last):
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 260, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 147, in index
+    **self.each_context(request),
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 121, in each_context
+    "sidebar_navigation": self.get_sidebar_list(request)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 263, in get_sidebar_list
+    item["active"] = self._get_is_active(
+                     ^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 418, in _get_is_active
+    link = str(link)
+           ^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/functional.py", line 119, in __str__
+    return str(self.__cast())
+               ^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/functional.py", line 110, in __cast
+    return func(*self._args, **self._kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/urls/base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Bot_guide_changelist' not found. 'Bot_guide_changelist' is not a valid view function or pattern name.
+ERROR 2025-06-13 07:00:27,087 basehttp "GET /uz/admin/ HTTP/1.1" 500 146316
+INFO 2025-06-13 07:00:47,118 autoreload Watching for file changes with StatReloader
+ERROR 2025-06-13 07:00:50,150 log Internal Server Error: /uz/admin/
+Traceback (most recent call last):
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 260, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 147, in index
+    **self.each_context(request),
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 121, in each_context
+    "sidebar_navigation": self.get_sidebar_list(request)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 263, in get_sidebar_list
+    item["active"] = self._get_is_active(
+                     ^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 418, in _get_is_active
+    link = str(link)
+           ^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/functional.py", line 119, in __str__
+    return str(self.__cast())
+               ^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/functional.py", line 110, in __cast
+    return func(*self._args, **self._kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/urls/base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Bot_guide_changelist' not found. 'Bot_guide_changelist' is not a valid view function or pattern name.
+ERROR 2025-06-13 07:00:50,170 basehttp "GET /uz/admin/ HTTP/1.1" 500 146310
+INFO 2025-06-13 07:02:04,448 autoreload /home/asrorbek/Documents/CountrysBot/CountrysBot/config/unfold_navigation.py changed, reloading.
+INFO 2025-06-13 07:02:06,816 autoreload Watching for file changes with StatReloader
+ERROR 2025-06-13 07:02:11,078 log Internal Server Error: /uz/admin/
+Traceback (most recent call last):
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 260, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 147, in index
+    **self.each_context(request),
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 121, in each_context
+    "sidebar_navigation": self.get_sidebar_list(request)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 263, in get_sidebar_list
+    item["active"] = self._get_is_active(
+                     ^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 418, in _get_is_active
+    link = str(link)
+           ^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/functional.py", line 119, in __str__
+    return str(self.__cast())
+               ^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/functional.py", line 110, in __cast
+    return func(*self._args, **self._kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/urls/base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Bot_guide_changelist' not found. 'Bot_guide_changelist' is not a valid view function or pattern name.
+ERROR 2025-06-13 07:02:11,083 basehttp "GET /uz/admin/ HTTP/1.1" 500 146310
+INFO 2025-06-13 07:02:30,027 autoreload /home/asrorbek/Documents/CountrysBot/CountrysBot/config/unfold_navigation.py changed, reloading.
+INFO 2025-06-13 07:02:31,886 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 07:02:34,091 autoreload /home/asrorbek/Documents/CountrysBot/CountrysBot/config/unfold_navigation.py changed, reloading.
+INFO 2025-06-13 07:02:36,483 autoreload Watching for file changes with StatReloader
+ERROR 2025-06-13 07:02:38,225 log Internal Server Error: /uz/admin/
+Traceback (most recent call last):
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 260, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 147, in index
+    **self.each_context(request),
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 121, in each_context
+    "sidebar_navigation": self.get_sidebar_list(request)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 263, in get_sidebar_list
+    item["active"] = self._get_is_active(
+                     ^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 418, in _get_is_active
+    link = str(link)
+           ^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/functional.py", line 119, in __str__
+    return str(self.__cast())
+               ^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/functional.py", line 110, in __cast
+    return func(*self._args, **self._kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/urls/base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Bot_guide_changelist' not found. 'Bot_guide_changelist' is not a valid view function or pattern name.
+ERROR 2025-06-13 07:02:38,241 basehttp "GET /uz/admin/ HTTP/1.1" 500 146637
+INFO 2025-06-13 07:02:52,613 autoreload /home/asrorbek/Documents/CountrysBot/CountrysBot/config/unfold_navigation.py changed, reloading.
+INFO 2025-06-13 07:02:55,327 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 07:04:03,774 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 07:04:29,655 autoreload /home/asrorbek/Documents/CountrysBot/CountrysBot/config/unfold_navigation.py changed, reloading.
+INFO 2025-06-13 07:04:31,778 autoreload Watching for file changes with StatReloader
+ERROR 2025-06-13 07:04:35,647 log Internal Server Error: /uz/admin/
+Traceback (most recent call last):
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 260, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 147, in index
+    **self.each_context(request),
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 121, in each_context
+    "sidebar_navigation": self.get_sidebar_list(request)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 263, in get_sidebar_list
+    item["active"] = self._get_is_active(
+                     ^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/sites.py", line 418, in _get_is_active
+    link = str(link)
+           ^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/functional.py", line 119, in __str__
+    return str(self.__cast())
+               ^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/functional.py", line 110, in __cast
+    return func(*self._args, **self._kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/urls/base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Bot_guide_changelist' not found. 'Bot_guide_changelist' is not a valid view function or pattern name.
+ERROR 2025-06-13 07:04:35,658 basehttp "GET /uz/admin/ HTTP/1.1" 500 146614
+INFO 2025-06-13 07:04:51,213 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/admin/base.py changed, reloading.
+INFO 2025-06-13 07:04:53,810 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 07:04:59,985 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/admin/base.py changed, reloading.
+INFO 2025-06-13 07:05:02,504 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 07:05:11,533 basehttp "GET /uz/admin/ HTTP/1.1" 200 37484
+INFO 2025-06-13 07:05:14,734 basehttp "GET /uz/admin/Bot/guide/ HTTP/1.1" 200 36614
+INFO 2025-06-13 07:05:14,818 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 07:05:17,450 basehttp "GET /uz/admin/Bot/guide/add/ HTTP/1.1" 200 36946
+INFO 2025-06-13 07:05:17,546 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 07:05:17,548 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-06-13 07:05:17,552 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-06-13 07:18:54,615 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 07:18:58,739 basehttp "GET /uz/admin/Bot/guide/add/ HTTP/1.1" 200 38000
+INFO 2025-06-13 07:18:58,900 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 07:18:59,143 basehttp "GET /summernote/editor/id_content/ HTTP/1.1" 200 7155
+INFO 2025-06-13 07:18:59,466 basehttp "GET /static/summernote/jquery.fileupload.js HTTP/1.1" 200 64780
+INFO 2025-06-13 07:18:59,483 basehttp "GET /static/summernote/jquery.ui.widget.js HTTP/1.1" 200 22757
+INFO 2025-06-13 07:18:59,475 basehttp "GET /static/summernote/summernote.min.css HTTP/1.1" 200 19392
+INFO 2025-06-13 07:18:59,478 basehttp "GET /static/summernote/jquery.iframe-transport.js HTTP/1.1" 200 10891
+INFO 2025-06-13 07:18:59,477 basehttp "GET /static/summernote/django_summernote.css HTTP/1.1" 200 126
+INFO 2025-06-13 07:18:59,493 basehttp "GET /static/summernote/summernote.min.js HTTP/1.1" 200 152734
+INFO 2025-06-13 07:18:59,568 basehttp "GET /static/summernote/ResizeSensor.js HTTP/1.1" 200 7678
+INFO 2025-06-13 07:19:00,088 basehttp "GET /static/summernote/lang/summernote-uz-UZ.min.js?_=1749781139927 HTTP/1.1" 200 3459
+INFO 2025-06-13 07:19:00,628 basehttp "GET /static/summernote/font/summernote.woff2 HTTP/1.1" 200 6948
+INFO 2025-06-13 07:22:12,218 basehttp "GET /uz/admin/Bot/ HTTP/1.1" 200 36476
+INFO 2025-06-13 07:22:19,271 basehttp "GET /uz/admin/ HTTP/1.1" 200 38310
+INFO 2025-06-13 07:22:21,824 basehttp "GET /uz/admin/Bot/guide/ HTTP/1.1" 200 38455
+INFO 2025-06-13 07:22:21,927 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 07:22:24,839 basehttp "GET /uz/admin/Bot/guide/add/ HTTP/1.1" 200 38000
+INFO 2025-06-13 07:22:24,951 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 07:22:25,016 basehttp "GET /summernote/editor/id_content/ HTTP/1.1" 200 7155
+INFO 2025-06-13 07:22:25,148 basehttp "GET /static/summernote/summernote.min.css HTTP/1.1" 304 0
+INFO 2025-06-13 07:22:25,151 basehttp "GET /static/summernote/django_summernote.css HTTP/1.1" 304 0
+INFO 2025-06-13 07:22:25,164 basehttp "GET /static/summernote/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2025-06-13 07:22:25,185 basehttp "GET /static/summernote/jquery.fileupload.js HTTP/1.1" 304 0
+INFO 2025-06-13 07:22:25,182 basehttp "GET /static/summernote/jquery.iframe-transport.js HTTP/1.1" 304 0
+INFO 2025-06-13 07:22:25,183 basehttp "GET /static/summernote/summernote.min.js HTTP/1.1" 304 0
+INFO 2025-06-13 07:22:25,193 basehttp "GET /static/summernote/ResizeSensor.js HTTP/1.1" 304 0
+INFO 2025-06-13 07:22:25,426 basehttp "GET /static/summernote/lang/summernote-uz-UZ.min.js?_=1749781345272 HTTP/1.1" 200 3459
+INFO 2025-06-13 07:22:25,920 basehttp "GET /static/summernote/font/summernote.woff2 HTTP/1.1" 304 0
+ERROR 2025-06-13 07:23:04,458 log Internal Server Error: /uz/admin/Bot/guide/add/
+Traceback (most recent call last):
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1961, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/admin.py", line 451, in changeform_view
+    return super().changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1865, in _changeform_view
+    form_validated = form.is_valid()
+                     ^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/forms/forms.py", line 197, in is_valid
+    return self.is_bound and not self.errors
+                                 ^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/forms/forms.py", line 192, in errors
+    self.full_clean()
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/forms/forms.py", line 325, in full_clean
+    self._clean_fields()
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/forms/forms.py", line 333, in _clean_fields
+    self.cleaned_data[name] = field._clean_bound_field(bf)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/forms/fields.py", line 266, in _clean_bound_field
+    return self.clean(value)
+           ^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/forms/fields.py", line 204, in clean
+    value = self.to_python(value)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django_summernote/fields.py", line 18, in to_python
+    return bleach.clean(
+           ^^^^^^^^^^^^^
+TypeError: clean() got an unexpected keyword argument 'styles'
+ERROR 2025-06-13 07:23:04,470 basehttp "POST /uz/admin/Bot/guide/add/ HTTP/1.1" 500 175462
+INFO 2025-06-13 07:24:40,282 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 07:24:44,934 basehttp "GET /uz/admin/Bot/guide/add/ HTTP/1.1" 200 38000
+INFO 2025-06-13 07:24:46,701 basehttp "GET /static/summernote/lang/summernote-uz-UZ.min.js?_=1749781486462 HTTP/1.1" 200 3459
+ERROR 2025-06-13 07:24:58,747 log Internal Server Error: /uz/admin/Bot/guide/add/
+Traceback (most recent call last):
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 718, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 241, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1961, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/unfold/admin.py", line 451, in changeform_view
+    return super().changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/utils/decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1820, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/contrib/admin/options.py", line 1865, in _changeform_view
+    form_validated = form.is_valid()
+                     ^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/forms/forms.py", line 197, in is_valid
+    return self.is_bound and not self.errors
+                                 ^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/forms/forms.py", line 192, in errors
+    self.full_clean()
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/forms/forms.py", line 325, in full_clean
+    self._clean_fields()
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/forms/forms.py", line 333, in _clean_fields
+    self.cleaned_data[name] = field._clean_bound_field(bf)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/forms/fields.py", line 266, in _clean_bound_field
+    return self.clean(value)
+           ^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django/forms/fields.py", line 204, in clean
+    value = self.to_python(value)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/CountrysBot/venv/lib/python3.12/site-packages/django_summernote/fields.py", line 18, in to_python
+    return bleach.clean(
+           ^^^^^^^^^^^^^
+TypeError: clean() got an unexpected keyword argument 'styles'
+ERROR 2025-06-13 07:24:58,755 basehttp "POST /uz/admin/Bot/guide/add/ HTTP/1.1" 500 175477
+INFO 2025-06-13 07:25:18,001 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/admin/base.py changed, reloading.
+INFO 2025-06-13 07:25:19,976 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 07:25:26,280 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-13 07:25:28,880 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 07:25:37,238 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-13 07:25:39,282 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 07:25:41,258 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-13 07:25:44,110 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 07:25:52,620 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-13 07:25:56,574 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 07:26:00,131 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-13 07:26:02,386 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 07:26:21,358 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 07:26:25,599 basehttp "POST /uz/admin/Bot/guide/add/ HTTP/1.1" 302 0
+INFO 2025-06-13 07:26:25,757 basehttp "GET /uz/admin/Bot/guide/ HTTP/1.1" 200 44204
+INFO 2025-06-13 07:26:25,876 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 07:26:28,549 basehttp "GET /uz/admin/Bot/guide/1/change/ HTTP/1.1" 200 39123
+INFO 2025-06-13 07:26:28,638 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 07:26:45,802 basehttp "POST /uz/admin/Bot/guide/1/change/ HTTP/1.1" 302 0
+INFO 2025-06-13 07:26:45,871 basehttp "GET /uz/admin/Bot/guide/ HTTP/1.1" 200 44202
+INFO 2025-06-13 07:26:46,022 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 07:26:48,271 basehttp "GET /uz/admin/ HTTP/1.1" 200 38310
+INFO 2025-06-13 07:26:57,329 basehttp "GET /uz/admin/Bot/guide/ HTTP/1.1" 200 43791
+INFO 2025-06-13 07:26:57,456 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 07:36:20,833 basehttp "GET /uz/admin/Bot/guide/1/change/ HTTP/1.1" 200 39104
+INFO 2025-06-13 07:36:21,059 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 07:36:50,470 basehttp "POST /uz/admin/Bot/guide/1/change/ HTTP/1.1" 302 0
+INFO 2025-06-13 07:36:50,545 basehttp "GET /uz/admin/Bot/guide/ HTTP/1.1" 200 44202
+INFO 2025-06-13 07:36:50,728 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 07:39:57,803 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-13 07:40:02,700 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 07:40:04,880 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-13 07:40:06,850 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 07:44:52,111 basehttp "GET /uz/admin/Bot/guide/ HTTP/1.1" 200 43791
+INFO 2025-06-13 07:44:52,224 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 07:44:54,857 basehttp "GET /uz/admin/Bot/guide/1/change/ HTTP/1.1" 200 40049
+INFO 2025-06-13 07:44:54,993 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 07:44:59,257 basehttp "POST /uz/admin/Bot/guide/1/change/ HTTP/1.1" 302 0
+INFO 2025-06-13 07:44:59,359 basehttp "GET /uz/admin/Bot/guide/ HTTP/1.1" 200 44202
+INFO 2025-06-13 07:44:59,504 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 07:45:12,434 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/admin/base.py changed, reloading.
+INFO 2025-06-13 07:45:14,750 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 07:45:18,823 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/admin/base.py changed, reloading.
+INFO 2025-06-13 07:45:20,775 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 07:45:22,577 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/admin/base.py changed, reloading.
+INFO 2025-06-13 07:45:24,251 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 07:45:25,193 basehttp "GET /uz/admin/Bot/guide/ HTTP/1.1" 200 45290
+INFO 2025-06-13 07:45:25,321 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 07:45:27,181 basehttp "GET /uz/admin/Bot/guide/ HTTP/1.1" 200 45290
+INFO 2025-06-13 07:45:27,274 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 08:15:26,788 basehttp "GET /uz/admin/Bot/guide/ HTTP/1.1" 200 48585
+INFO 2025-06-13 08:15:27,042 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 08:15:29,250 basehttp "GET /uz/admin/Bot/guide/2/change/ HTTP/1.1" 200 39976
+INFO 2025-06-13 08:15:29,506 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 21:03:50,161 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 21:10:04,983 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-13 21:10:12,146 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 21:10:34,238 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-13 21:10:36,907 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 21:10:40,763 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-13 21:10:44,747 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 21:10:54,498 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-13 21:10:58,677 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 21:11:03,024 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-13 21:11:06,018 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 21:17:31,623 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 21:17:36,543 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-06-13 21:17:37,780 basehttp "GET /uz/admin/ HTTP/1.1" 200 38341
+INFO 2025-06-13 21:17:41,263 basehttp "GET / HTTP/1.1" 200 4583
+INFO 2025-06-13 21:17:51,789 basehttp "GET /uz/admin/ HTTP/1.1" 200 38341
+INFO 2025-06-13 21:19:45,340 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 64427
+INFO 2025-06-13 21:19:45,499 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 21:19:45,568 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-06-13 21:19:45,574 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-06-13 21:19:45,594 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-06-13 21:19:45,595 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-06-13 21:19:45,619 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-06-13 21:19:45,598 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-06-13 21:37:59,602 basehttp "GET /uz/admin/Bot/telegramuser/2/change/ HTTP/1.1" 200 54768
+INFO 2025-06-13 21:37:59,745 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 21:37:59,810 basehttp "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2025-06-13 21:37:59,813 basehttp "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2025-06-13 21:37:59,869 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-06-13 21:38:00,027 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-06-13 21:38:56,794 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/admin/base.py changed, reloading.
+INFO 2025-06-13 21:39:00,174 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 21:39:03,678 autoreload /home/asrorbek/Documents/CountrysBot/apps/Bot/admin/base.py changed, reloading.
+INFO 2025-06-13 21:39:07,132 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 21:49:18,785 autoreload /home/asrorbek/Documents/CountrysBot/CountrysBot/config/unfold_navigation.py changed, reloading.
+INFO 2025-06-13 21:49:21,057 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 21:49:28,647 autoreload /home/asrorbek/Documents/CountrysBot/CountrysBot/config/unfold_navigation.py changed, reloading.
+INFO 2025-06-13 21:49:30,512 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 21:49:34,870 autoreload /home/asrorbek/Documents/CountrysBot/CountrysBot/config/unfold_navigation.py changed, reloading.
+INFO 2025-06-13 21:49:37,336 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 21:49:41,499 autoreload /home/asrorbek/Documents/CountrysBot/CountrysBot/config/unfold_navigation.py changed, reloading.
+INFO 2025-06-13 21:49:43,737 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 21:49:52,676 autoreload /home/asrorbek/Documents/CountrysBot/CountrysBot/config/unfold_navigation.py changed, reloading.
+INFO 2025-06-13 21:49:54,943 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 21:49:56,790 autoreload /home/asrorbek/Documents/CountrysBot/CountrysBot/config/unfold_navigation.py changed, reloading.
+INFO 2025-06-13 21:49:58,878 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 21:50:07,929 autoreload /home/asrorbek/Documents/CountrysBot/CountrysBot/config/unfold_navigation.py changed, reloading.
+INFO 2025-06-13 21:50:10,675 autoreload Watching for file changes with StatReloader
+INFO 2025-06-13 21:50:16,964 basehttp "GET /uz/admin/Bot/telegramuser/2/change/ HTTP/1.1" 200 56644
+INFO 2025-06-13 21:50:17,165 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 21:50:24,913 basehttp "GET /uz/admin/Bot/appeal/ HTTP/1.1" 200 51722
+INFO 2025-06-13 21:50:25,010 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 22:22:05,831 basehttp "GET /uz/admin/Bot/appeal/1/change/ HTTP/1.1" 200 49596
+INFO 2025-06-13 22:22:06,047 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 22:22:32,610 basehttp "POST /uz/admin/Bot/appeal/1/change/ HTTP/1.1" 302 0
+INFO 2025-06-13 22:22:32,698 basehttp "GET /uz/admin/Bot/appeal/ HTTP/1.1" 200 55356
+INFO 2025-06-13 22:22:32,907 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 22:36:18,119 basehttp "GET /uz/admin/Bot/appeal/ HTTP/1.1" 200 54879
+INFO 2025-06-13 22:36:18,243 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-13 22:36:20,420 basehttp "GET /uz/admin/Bot/appeal/2/change/ HTTP/1.1" 200 49610
+INFO 2025-06-13 22:36:20,520 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-15 22:18:43,218 autoreload Watching for file changes with StatReloader
+INFO 2025-06-15 22:28:19,142 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-06-15 22:28:20,294 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-06-15 22:28:20,476 basehttp "GET /uz/admin/ HTTP/1.1" 302 0
+INFO 2025-06-15 22:28:21,114 basehttp "GET /uz/admin/login/?next=/uz/admin/ HTTP/1.1" 200 11132
+INFO 2025-06-15 22:28:21,848 basehttp "GET /static/unfold/fonts/material-symbols/styles.css HTTP/1.1" 200 535
+INFO 2025-06-15 22:28:21,852 basehttp "GET /static/unfold/fonts/inter/styles.css HTTP/1.1" 200 608
+INFO 2025-06-15 22:28:21,858 basehttp "GET /static/unfold/css/simplebar.css HTTP/1.1" 200 4647
+INFO 2025-06-15 22:28:21,865 basehttp "GET /static/unfold/js/htmx.js HTTP/1.1" 200 50918
+INFO 2025-06-15 22:28:21,869 basehttp "GET /static/unfold/css/styles.css HTTP/1.1" 200 157275
+INFO 2025-06-15 22:28:21,874 basehttp "GET /static/unfold/js/chart.js HTTP/1.1" 200 200633
+INFO 2025-06-15 22:28:21,939 basehttp "GET /static/unfold/js/app.js HTTP/1.1" 200 7736
+INFO 2025-06-15 22:28:21,956 basehttp "GET /static/unfold/js/simplebar.js HTTP/1.1" 200 27176
+INFO 2025-06-15 22:28:22,142 basehttp "GET /static/unfold/js/alpine.anchor.js HTTP/1.1" 200 15524
+INFO 2025-06-15 22:28:22,150 basehttp "GET /static/unfold/js/alpine.persist.js HTTP/1.1" 200 837
+INFO 2025-06-15 22:28:22,207 basehttp "GET /static/unfold/js/alpine.resize.js HTTP/1.1" 200 703
+INFO 2025-06-15 22:28:22,217 basehttp "GET /static/unfold/js/alpine.js HTTP/1.1" 200 44659
+INFO 2025-06-15 22:28:22,222 basehttp "GET /static/unfold/js/alpine.sort.js HTTP/1.1" 200 37891
+INFO 2025-06-15 22:28:22,377 basehttp "GET /static/images/login.png HTTP/1.1" 200 171031
+INFO 2025-06-15 22:28:22,557 basehttp "GET /static/unfold/fonts/material-symbols/Material-Symbols-Outlined.woff2 HTTP/1.1" 200 256424
+INFO 2025-06-15 22:28:22,590 basehttp "GET /static/unfold/fonts/inter/Inter-Medium.woff2 HTTP/1.1" 200 46552
+INFO 2025-06-15 22:28:22,596 basehttp "GET /static/unfold/fonts/inter/Inter-SemiBold.woff2 HTTP/1.1" 200 46552
+INFO 2025-06-15 22:28:22,604 basehttp "GET /static/unfold/fonts/inter/Inter-Regular.woff2 HTTP/1.1" 200 46552
+INFO 2025-06-15 22:28:31,286 basehttp "POST /uz/admin/login/?next=/uz/admin/ HTTP/1.1" 302 0
+INFO 2025-06-15 22:28:31,532 basehttp "GET /uz/admin/ HTTP/1.1" 200 37681
+INFO 2025-06-15 22:28:36,468 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 46532
+INFO 2025-06-15 22:28:36,694 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-15 22:28:36,711 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9048
+INFO 2025-06-15 22:28:36,762 basehttp "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2025-06-15 22:28:36,765 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2025-06-15 22:28:36,769 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2025-06-15 22:28:36,771 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2025-06-15 22:28:36,798 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+INFO 2025-06-15 22:28:36,799 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2025-06-15 22:28:36,805 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2025-06-15 22:30:54,820 basehttp "GET /uz/admin/ HTTP/1.1" 200 38949
+INFO 2025-06-15 22:30:55,025 basehttp "GET /static/unfold/fonts/inter/styles.css HTTP/1.1" 304 0
+INFO 2025-06-15 22:30:55,028 basehttp "GET /static/unfold/css/simplebar.css HTTP/1.1" 304 0
+INFO 2025-06-15 22:30:55,053 basehttp "GET /static/unfold/js/chart.js HTTP/1.1" 304 0
+INFO 2025-06-15 22:30:55,034 basehttp "GET /static/unfold/js/htmx.js HTTP/1.1" 304 0
+INFO 2025-06-15 22:30:55,032 basehttp "GET /static/unfold/css/styles.css HTTP/1.1" 304 0
+INFO 2025-06-15 22:30:55,071 basehttp "GET /static/unfold/fonts/material-symbols/styles.css HTTP/1.1" 304 0
+INFO 2025-06-15 22:30:55,125 basehttp "GET /static/unfold/js/app.js HTTP/1.1" 304 0
+INFO 2025-06-15 22:30:55,153 basehttp "GET /static/unfold/js/simplebar.js HTTP/1.1" 304 0
+INFO 2025-06-15 22:30:55,198 basehttp "GET /static/unfold/js/alpine.js HTTP/1.1" 304 0
+INFO 2025-06-15 22:30:55,199 basehttp "GET /static/unfold/js/alpine.sort.js HTTP/1.1" 304 0
+INFO 2025-06-15 22:30:55,205 basehttp "GET /static/unfold/js/alpine.resize.js HTTP/1.1" 304 0
+INFO 2025-06-15 22:30:55,213 basehttp "GET /static/unfold/js/alpine.persist.js HTTP/1.1" 304 0
+INFO 2025-06-15 22:30:55,227 basehttp "GET /static/unfold/js/alpine.anchor.js HTTP/1.1" 304 0

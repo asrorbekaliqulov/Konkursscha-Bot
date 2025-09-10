@@ -1,0 +1,2 @@
+# Konkursscha-Bot
+# Konkursscha-Bot

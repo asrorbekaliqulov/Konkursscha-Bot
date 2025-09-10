@@ -1,0 +1,362 @@
+INFO 2025-06-17 13:27:23,954 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 13:27:33,855 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-06-17 13:27:33,918 basehttp "GET /uz/admin/ HTTP/1.1" 302 0
+INFO 2025-06-17 13:27:34,058 basehttp "GET /uz/admin/login/?next=/uz/admin/ HTTP/1.1" 200 11132
+INFO 2025-06-17 13:27:34,180 basehttp "GET /static/unfold/fonts/inter/styles.css HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:34,208 basehttp "GET /static/unfold/css/simplebar.css HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:34,209 basehttp "GET /static/unfold/fonts/material-symbols/styles.css HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:34,231 basehttp "GET /static/unfold/css/styles.css HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:34,238 basehttp "GET /static/unfold/js/simplebar.js HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:34,239 basehttp "GET /static/unfold/js/htmx.js HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:34,259 basehttp "GET /static/unfold/js/app.js HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:34,275 basehttp "GET /static/unfold/js/chart.js HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:34,347 basehttp "GET /static/unfold/js/alpine.anchor.js HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:34,374 basehttp "GET /static/unfold/js/alpine.persist.js HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:34,438 basehttp "GET /static/unfold/js/alpine.sort.js HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:34,455 basehttp "GET /static/unfold/js/alpine.resize.js HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:34,441 basehttp "GET /static/unfold/js/alpine.js HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:34,653 basehttp "GET /static/images/login.png HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:34,832 basehttp "GET /static/unfold/fonts/inter/Inter-SemiBold.woff2 HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:34,839 basehttp "GET /static/unfold/fonts/inter/Inter-Medium.woff2 HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:34,835 basehttp "GET /static/unfold/fonts/material-symbols/Material-Symbols-Outlined.woff2 HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:34,842 basehttp "GET /static/unfold/fonts/inter/Inter-Regular.woff2 HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:40,078 basehttp "POST /uz/admin/login/?next=/uz/admin/ HTTP/1.1" 302 0
+INFO 2025-06-17 13:27:40,342 basehttp "GET /uz/admin/ HTTP/1.1" 200 38947
+INFO 2025-06-17 13:27:57,333 basehttp "GET /uz/admin/Bot/guide/ HTTP/1.1" 200 40331
+INFO 2025-06-17 13:27:57,502 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 13:27:57,558 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:57,571 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:57,572 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:57,573 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:57,578 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:57,581 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:57,590 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-06-17 13:27:57,626 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-06-17 13:30:34,139 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 63323
+INFO 2025-06-17 13:30:34,280 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 13:30:45,918 basehttp "GET / HTTP/1.1" 200 4583
+INFO 2025-06-17 13:38:29,078 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 13:38:34,780 basehttp "GET / HTTP/1.1" 200 14280
+WARNING 2025-06-17 13:38:35,011 basehttp "GET /static/css/base_styles.css HTTP/1.1" 404 1984
+WARNING 2025-06-17 13:38:35,030 basehttp "GET /static/logo.png HTTP/1.1" 404 1951
+INFO 2025-06-17 13:38:35,053 basehttp "GET /static/js/script.js HTTP/1.1" 200 14271
+WARNING 2025-06-17 13:38:35,472 basehttp "GET /static/logo.png HTTP/1.1" 404 1951
+INFO 2025-06-17 13:40:46,044 basehttp "GET / HTTP/1.1" 200 14280
+WARNING 2025-06-17 13:40:46,272 basehttp "GET /static/logo.png HTTP/1.1" 404 1951
+WARNING 2025-06-17 13:40:46,293 basehttp "GET /static/css/base_styles.css HTTP/1.1" 404 1984
+INFO 2025-06-17 13:41:12,274 basehttp "GET / HTTP/1.1" 200 14288
+WARNING 2025-06-17 13:41:12,435 basehttp "GET /static/logo.png HTTP/1.1" 404 1951
+WARNING 2025-06-17 13:41:12,437 basehttp "GET /static/css/base_styles.css HTTP/1.1" 404 1984
+INFO 2025-06-17 13:44:16,614 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 13:44:19,678 basehttp "GET //default HTTP/1.1" 301 0
+INFO 2025-06-17 13:44:19,797 basehttp "GET /default/ HTTP/1.1" 200 4571
+INFO 2025-06-17 13:44:25,304 basehttp "GET /default HTTP/1.1" 301 0
+ERROR 2025-06-17 13:45:03,796 log Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/asrorbek/Documents/Django+PTB/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/Django+PTB/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/Django+PTB/venv/lib/python3.12/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/Django+PTB/venv/lib/python3.12/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/Django+PTB/venv/lib/python3.12/site-packages/django/template/response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/Django+PTB/venv/lib/python3.12/site-packages/django/template/loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/Django+PTB/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/Django+PTB/venv/lib/python3.12/site-packages/django/template/engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/Django+PTB/venv/lib/python3.12/site-packages/django/template/engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/Django+PTB/venv/lib/python3.12/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/Django+PTB/venv/lib/python3.12/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/home/asrorbek/Documents/Django+PTB/venv/lib/python3.12/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/Django+PTB/venv/lib/python3.12/site-packages/django/template/base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/Django+PTB/venv/lib/python3.12/site-packages/django/template/base.py", line 518, in parse
+    raise self.error(token, e)
+  File "/home/asrorbek/Documents/Django+PTB/venv/lib/python3.12/site-packages/django/template/base.py", line 516, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/Django+PTB/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/asrorbek/Documents/Django+PTB/venv/lib/python3.12/site-packages/django/template/base.py", line 523, in parse
+    self.unclosed_block_tag(parse_until)
+  File "/home/asrorbek/Documents/Django+PTB/venv/lib/python3.12/site-packages/django/template/base.py", line 586, in unclosed_block_tag
+    raise self.error(token, msg)
+django.template.exceptions.TemplateSyntaxError: Unclosed tag on line 2: 'block'. Looking for one of: endblock.
+ERROR 2025-06-17 13:45:03,803 basehttp "GET / HTTP/1.1" 500 177282
+INFO 2025-06-17 13:45:32,866 basehttp "GET / HTTP/1.1" 200 14705
+WARNING 2025-06-17 13:45:32,996 basehttp "GET /static/css/base_styles.css HTTP/1.1" 404 1984
+WARNING 2025-06-17 13:45:32,997 basehttp "GET /static/logo.png HTTP/1.1" 404 1951
+INFO 2025-06-17 13:46:32,297 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 13:46:35,749 basehttp "GET / HTTP/1.1" 200 14705
+WARNING 2025-06-17 13:46:35,993 basehttp "GET /static/logo.png HTTP/1.1" 404 1951
+WARNING 2025-06-17 13:46:35,995 basehttp "GET /static/css/base_styles.css HTTP/1.1" 404 1984
+INFO 2025-06-17 13:47:23,707 basehttp "GET / HTTP/1.1" 200 14719
+WARNING 2025-06-17 13:47:23,897 basehttp "GET /static/css/base_styles.css HTTP/1.1" 404 1984
+INFO 2025-06-17 13:47:23,931 basehttp "GET /static/images/logo.png HTTP/1.1" 200 333392
+INFO 2025-06-17 13:47:45,498 basehttp "GET / HTTP/1.1" 200 14718
+INFO 2025-06-17 13:47:45,597 basehttp "GET /static/css/base_style.css HTTP/1.1" 200 22194
+INFO 2025-06-17 13:49:12,392 basehttp "GET / HTTP/1.1" 200 14718
+INFO 2025-06-17 13:51:40,498 basehttp "GET / HTTP/1.1" 200 14749
+INFO 2025-06-17 13:52:21,959 basehttp "GET / HTTP/1.1" 200 14781
+INFO 2025-06-17 13:53:16,063 basehttp "GET / HTTP/1.1" 200 14813
+INFO 2025-06-17 14:07:53,593 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 14:07:56,981 basehttp "GET / HTTP/1.1" 200 14813
+INFO 2025-06-17 14:08:55,708 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 14:08:59,344 basehttp "GET / HTTP/1.1" 200 14813
+INFO 2025-06-17 14:09:24,104 basehttp "GET / HTTP/1.1" 200 14813
+INFO 2025-06-17 14:09:44,919 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 14:09:48,524 basehttp "GET / HTTP/1.1" 200 14813
+WARNING 2025-06-17 14:10:02,182 log Not Found: /.well-known/appspecific/com.chrome.devtools.json
+WARNING 2025-06-17 14:10:02,183 basehttp "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 4283
+INFO 2025-06-17 14:10:49,687 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 14:10:53,549 basehttp "GET / HTTP/1.1" 200 14813
+WARNING 2025-06-17 14:10:54,268 log Not Found: /.well-known/appspecific/com.chrome.devtools.json
+WARNING 2025-06-17 14:10:54,282 basehttp "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 4283
+INFO 2025-06-17 14:12:04,019 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 14:12:12,182 basehttp "GET / HTTP/1.1" 200 14813
+WARNING 2025-06-17 14:12:12,966 log Not Found: /.well-known/appspecific/com.chrome.devtools.json
+WARNING 2025-06-17 14:12:13,040 basehttp "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 4283
+INFO 2025-06-17 14:15:07,240 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 14:15:11,402 basehttp "GET / HTTP/1.1" 200 14813
+WARNING 2025-06-17 14:15:11,708 log Not Found: /.well-known/appspecific/com.chrome.devtools.json
+WARNING 2025-06-17 14:15:11,725 basehttp "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 4283
+INFO 2025-06-17 14:17:26,647 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 14:17:32,876 basehttp "GET / HTTP/1.1" 200 14813
+INFO 2025-06-17 14:19:31,337 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 14:19:35,221 basehttp "GET / HTTP/1.1" 200 14813
+INFO 2025-06-17 14:20:21,800 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 14:20:34,824 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 14:20:37,918 basehttp "GET / HTTP/1.1" 200 14813
+WARNING 2025-06-17 14:20:47,085 log Not Found: /.well-known/appspecific/com.chrome.devtools.json
+WARNING 2025-06-17 14:20:47,085 basehttp "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 4283
+INFO 2025-06-17 15:13:46,482 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:13:55,400 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:14:17,345 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:14:20,553 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:14:24,483 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:14:30,626 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:14:33,733 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:14:36,204 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:14:41,351 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:14:43,812 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:14:49,576 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:14:52,840 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:14:55,869 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:14:59,162 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:15:03,017 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:15:06,164 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:15:09,782 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:15:13,052 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:16:08,787 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:16:12,379 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:26:12,471 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:26:24,178 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:26:33,884 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:26:40,147 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:26:57,577 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:27:00,715 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:27:08,560 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:27:12,717 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:27:17,074 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:27:20,368 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:29:24,346 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:29:27,472 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:29:33,448 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:29:37,245 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:29:41,242 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:29:45,141 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:29:48,459 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:29:52,742 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:34:34,498 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:34:39,886 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:50:17,085 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:50:21,594 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 15:54:07,451 basehttp "GET / HTTP/1.1" 200 14813
+INFO 2025-06-17 15:54:14,504 basehttp "GET /default/ HTTP/1.1" 200 4571
+INFO 2025-06-17 15:54:17,320 basehttp "GET /uz/admin/ HTTP/1.1" 200 40235
+INFO 2025-06-17 15:54:22,013 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 69402
+INFO 2025-06-17 15:54:22,191 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 15:54:26,489 basehttp "GET /uz/admin/Bot/telegramuser/2/change/ HTTP/1.1" 200 44661
+INFO 2025-06-17 15:54:26,665 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 15:54:26,842 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2025-06-17 15:54:26,843 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2025-06-17 15:55:19,512 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 69402
+INFO 2025-06-17 15:55:19,677 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 15:55:23,146 basehttp "GET /uz/admin/Bot/telegramuser/2/change/ HTTP/1.1" 200 44661
+INFO 2025-06-17 15:55:23,247 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 15:55:26,799 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 69402
+INFO 2025-06-17 15:56:11,989 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 75418
+INFO 2025-06-17 15:56:12,183 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 15:56:14,336 basehttp "GET /uz/admin/Bot/telegramuser/3/change/ HTTP/1.1" 200 44533
+INFO 2025-06-17 15:56:14,528 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 15:57:22,182 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/models/TelegramBot.py changed, reloading.
+INFO 2025-06-17 15:57:30,270 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 17:56:42,102 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 17:57:00,983 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-06-17 17:57:01,126 basehttp "GET /uz/admin/ HTTP/1.1" 302 0
+INFO 2025-06-17 17:57:02,289 basehttp "GET /uz/admin/login/?next=/uz/admin/ HTTP/1.1" 200 11132
+INFO 2025-06-17 17:57:02,782 basehttp "GET /static/unfold/fonts/inter/styles.css HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:02,786 basehttp "GET /static/unfold/fonts/material-symbols/styles.css HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:02,976 basehttp "GET /static/unfold/css/styles.css HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:03,011 basehttp "GET /static/unfold/js/htmx.js HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:03,023 basehttp "GET /static/unfold/css/simplebar.css HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:03,407 basehttp "GET /static/unfold/js/chart.js HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:03,455 basehttp "GET /static/unfold/js/app.js HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:03,461 basehttp "GET /static/unfold/js/simplebar.js HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:03,647 basehttp "GET /static/unfold/js/alpine.persist.js HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:03,662 basehttp "GET /static/unfold/js/alpine.anchor.js HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:03,683 basehttp "GET /static/unfold/js/alpine.sort.js HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:03,714 basehttp "GET /static/unfold/js/alpine.resize.js HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:03,729 basehttp "GET /static/unfold/js/alpine.js HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:03,913 basehttp "GET /static/images/login.png HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:04,071 basehttp "GET /static/unfold/fonts/inter/Inter-SemiBold.woff2 HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:04,103 basehttp "GET /static/unfold/fonts/material-symbols/Material-Symbols-Outlined.woff2 HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:04,104 basehttp "GET /static/unfold/fonts/inter/Inter-Medium.woff2 HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:04,218 basehttp "GET /static/unfold/fonts/inter/Inter-Regular.woff2 HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:41,032 basehttp "POST /uz/admin/login/?next=/uz/admin/ HTTP/1.1" 302 0
+INFO 2025-06-17 17:57:41,182 basehttp "GET /uz/admin/ HTTP/1.1" 200 37681
+INFO 2025-06-17 17:57:44,766 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 46532
+INFO 2025-06-17 17:57:44,991 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:44,997 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:45,000 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:45,006 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:45,007 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:45,007 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:45,027 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:45,055 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 17:57:45,028 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-06-17 17:57:46,709 basehttp "GET /uz/admin/Bot/telegramuser/add/ HTTP/1.1" 200 43183
+INFO 2025-06-17 17:57:46,864 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:11:26,146 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 63337
+INFO 2025-06-17 18:11:26,310 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:11:29,419 basehttp "GET /uz/admin/Bot/telegramuser/1/change/ HTTP/1.1" 200 44661
+INFO 2025-06-17 18:11:29,552 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:12:15,031 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/admin/base.py changed, reloading.
+INFO 2025-06-17 18:12:19,290 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 18:12:23,939 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/admin/base.py changed, reloading.
+INFO 2025-06-17 18:12:26,616 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 18:12:31,223 basehttp "GET /uz/admin/Bot/telegramuser/1/change/ HTTP/1.1" 200 45762
+INFO 2025-06-17 18:12:31,530 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:13:03,319 autoreload /home/asrorbek/Documents/Django+PTB/apps/Bot/admin/base.py changed, reloading.
+INFO 2025-06-17 18:13:06,359 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 18:13:09,689 basehttp "GET /uz/admin/Bot/telegramuser/1/change/ HTTP/1.1" 200 45271
+INFO 2025-06-17 18:13:09,873 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:14:26,243 basehttp "GET /uz/admin/Bot/telegramuser/1/change/ HTTP/1.1" 200 45271
+INFO 2025-06-17 18:14:26,434 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:14:27,881 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 69394
+INFO 2025-06-17 18:14:28,048 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:14:30,896 basehttp "GET /uz/admin/Bot/telegramuser/2/change/ HTTP/1.1" 200 45183
+INFO 2025-06-17 18:14:31,036 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:15:49,805 basehttp "GET /uz/admin/Bot/telegramuser/1/change/ HTTP/1.1" 200 45271
+INFO 2025-06-17 18:15:50,137 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:16:05,500 basehttp "POST /uz/admin/Bot/telegramuser/1/change/ HTTP/1.1" 302 0
+INFO 2025-06-17 18:16:05,697 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 69860
+INFO 2025-06-17 18:16:05,930 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:20:34,976 autoreload Watching for file changes with StatReloader
+INFO 2025-06-17 18:21:38,170 basehttp "GET /uz/admin/Bot/referral/ HTTP/1.1" 200 40358
+INFO 2025-06-17 18:21:38,302 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:24:24,700 basehttp "GET /uz/admin/Bot/referral/ HTTP/1.1" 200 40358
+INFO 2025-06-17 18:24:24,846 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:24:28,743 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 69402
+INFO 2025-06-17 18:24:28,863 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:28:42,826 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 69402
+INFO 2025-06-17 18:28:42,966 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:28:46,315 basehttp "GET /uz/admin/Bot/telegramuser/2/change/ HTTP/1.1" 200 45183
+INFO 2025-06-17 18:28:46,457 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:31:26,449 basehttp "GET /uz/admin/Bot/referral/ HTTP/1.1" 200 40358
+INFO 2025-06-17 18:31:26,602 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:31:58,296 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 75418
+INFO 2025-06-17 18:31:58,579 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:32:04,456 basehttp "POST /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 36187
+INFO 2025-06-17 18:32:04,916 basehttp "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 2025-06-17 18:32:08,114 basehttp "POST /uz/admin/Bot/telegramuser/ HTTP/1.1" 302 0
+INFO 2025-06-17 18:32:08,188 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 69757
+INFO 2025-06-17 18:32:08,337 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:32:20,851 basehttp "GET /uz/admin/Bot/referral/ HTTP/1.1" 200 47151
+INFO 2025-06-17 18:32:20,993 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:32:38,650 basehttp "POST /uz/admin/Bot/referral/ HTTP/1.1" 200 36210
+INFO 2025-06-17 18:32:40,482 basehttp "POST /uz/admin/Bot/referral/ HTTP/1.1" 302 0
+INFO 2025-06-17 18:32:40,546 basehttp "GET /uz/admin/Bot/referral/ HTTP/1.1" 200 40708
+INFO 2025-06-17 18:32:40,737 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:32:44,672 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 75418
+INFO 2025-06-17 18:32:44,885 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:32:49,792 basehttp "POST /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 36187
+INFO 2025-06-17 18:32:51,614 basehttp "POST /uz/admin/Bot/telegramuser/ HTTP/1.1" 302 0
+INFO 2025-06-17 18:32:51,759 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 69757
+INFO 2025-06-17 18:32:51,900 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:33:53,807 basehttp "GET /uz/admin/Bot/referral/ HTTP/1.1" 200 40358
+INFO 2025-06-17 18:33:53,978 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:35:01,324 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 75418
+INFO 2025-06-17 18:35:01,536 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:35:05,924 basehttp "POST /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 36187
+INFO 2025-06-17 18:35:07,664 basehttp "POST /uz/admin/Bot/telegramuser/ HTTP/1.1" 302 0
+INFO 2025-06-17 18:35:07,758 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 69757
+INFO 2025-06-17 18:35:07,892 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:35:36,572 basehttp "GET /uz/admin/Bot/referral/ HTTP/1.1" 200 40358
+INFO 2025-06-17 18:35:36,704 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 18:58:09,154 basehttp "GET /uz/admin/Bot/referral/ HTTP/1.1" 200 40358
+INFO 2025-06-17 18:58:09,336 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 19:23:14,025 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-06-17 19:23:14,505 basehttp "GET /uz/admin/ HTTP/1.1" 200 41484
+INFO 2025-06-17 19:23:30,568 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 75418
+INFO 2025-06-17 19:23:30,688 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 19:23:37,734 basehttp "POST /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 36396
+INFO 2025-06-17 19:23:39,756 basehttp "POST /uz/admin/Bot/telegramuser/ HTTP/1.1" 302 0
+INFO 2025-06-17 19:23:39,859 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 63701
+INFO 2025-06-17 19:23:39,988 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 19:23:48,929 basehttp "POST /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 36219
+INFO 2025-06-17 19:23:50,975 basehttp "POST /uz/admin/Bot/telegramuser/ HTTP/1.1" 302 0
+INFO 2025-06-17 19:23:51,080 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 46887
+INFO 2025-06-17 19:23:51,286 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 19:24:12,409 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 63337
+INFO 2025-06-17 19:24:12,510 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 19:24:14,130 basehttp "GET /uz/admin/Bot/telegramuser/7/change/ HTTP/1.1" 200 45271
+INFO 2025-06-17 19:24:14,232 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 19:24:33,050 basehttp "GET /uz/admin/Bot/referral/ HTTP/1.1" 200 40358
+INFO 2025-06-17 19:24:33,158 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 19:24:34,201 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 63337
+INFO 2025-06-17 19:24:34,295 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 19:28:21,193 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 69394
+INFO 2025-06-17 19:28:21,332 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 19:28:23,666 basehttp "GET /uz/admin/Bot/referral/ HTTP/1.1" 200 40358
+INFO 2025-06-17 19:28:23,797 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 19:28:25,770 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 69394
+INFO 2025-06-17 19:28:25,870 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 19:31:04,901 basehttp "GET /uz/admin/Bot/referral/ HTTP/1.1" 200 47151
+INFO 2025-06-17 19:31:05,233 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 19:31:17,090 basehttp "GET /uz/admin/Bot/telegramuser/ HTTP/1.1" 200 75410
+INFO 2025-06-17 19:31:17,227 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 19:31:28,136 basehttp "GET /uz/admin/Bot/referral/ HTTP/1.1" 200 47151
+INFO 2025-06-17 19:31:28,245 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 19:31:31,696 basehttp "GET /uz/admin/Bot/referral/ HTTP/1.1" 200 47151
+INFO 2025-06-17 19:31:31,799 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 19:31:56,382 basehttp "GET /uz/admin/Bot/referral/ HTTP/1.1" 200 47151
+INFO 2025-06-17 19:31:56,498 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 19:32:13,324 basehttp "GET /uz/admin/Bot/referral/ HTTP/1.1" 200 47151
+INFO 2025-06-17 19:32:13,446 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 19:38:53,894 basehttp "GET /uz/admin/Bot/referral/ HTTP/1.1" 200 47151
+INFO 2025-06-17 19:38:54,092 basehttp "GET /uz/admin/jsi18n/ HTTP/1.1" 200 6253
+INFO 2025-06-17 20:34:32,519 autoreload Watching for file changes with StatReloader
