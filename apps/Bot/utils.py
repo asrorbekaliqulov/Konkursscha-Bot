@@ -98,14 +98,10 @@ async def get_unsubscribed_channels(user_id: int, bot):
     return unsubscribed
 
 
-from telegram import InlineKeyboardMarkup, InlineKeyboardButton
-from telegram import Bot
-from asgiref.sync import sync_to_async
-from ..models.TelegramBot import TelegramUser
-from django.conf import settings
+
 
 async def notify_admins_unable_to_check(user, condition):
-    bot = Bot(token=settings.TOKEN)
+    bot = Bot(token=TOKEN)
 
     text = (
         f"⚠️ Shartni tekshirishda muammo!\n\n"
