@@ -14,7 +14,7 @@ class UserAdmin(ModelAdmin):
     readonly_fields = ("user_id", 'referral_code', "date_joined", "last_active")
     fieldsets = (
         (None, {
-            'fields': ('user_id', 'first_name', 'username', 'referral_code', 'is_active', 'is_admin', 'date_joined', 'last_active')
+            'fields': ('user_id', 'first_name', 'username', 'referral_code', 'is_active', 'is_admin', 'date_joined', 'last_active', 'ref_score')
         }),
     )
     list_editable = ("is_active", "is_admin")
